@@ -17,7 +17,8 @@ PhotoLabs allows users to:
 ![Modal](https://github.com/B-Rob97/photolabs-starter/blob/main/frontend/assets/gifs/PhotoLabs-Modal.gif?raw=true)
 ### Like Photos
 ![Like Photos](https://github.com/B-Rob97/photolabs-starter/blob/main/frontend/assets/gifs/PhotoLabs-Likes.gif?raw=true)
-
+### Darkmode
+![Darkmode](https://github.com/B-Rob97/photolabs-starter/blob/main/frontend/assets/gifs/PhotoLabs-DarkMode.gif?raw=true)
 
 ## Getting Started
 1. Clone this repository onto your local device.
